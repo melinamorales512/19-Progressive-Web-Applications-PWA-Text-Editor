@@ -20,6 +20,7 @@ For use offline, this application can be downloaded to your desktop as an applic
 ## Installation
 
 The installation for this text editor will need  install the dependencies for this project, the user simply needs to clone the repository and then run the command "npm install". This will install all necessary dependencies since they are all included in the package.json.
+https://drive.google.com/file/d/1mYYTuScRLiY5s5B_g578xsXtexV1_Y8a/view
 
 ## Usage
 To use this app, simply open it up in the browser (with the deployed app link at the top of this readme) and then you are good to go. For offline use, the user can go to the link and hit the "install" button at the top left corner of the page
