@@ -15,7 +15,7 @@
 ## Description
 This project is simple text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. 
 The application also function offline.Needed to use a variety of data persistence options in order to ensure that data is not lost in any scenario. The application first looks to use the data in the indexedDB to populate the editor, then if it cannot access that it will use local storage. 
-For use offline, this application can be downloaded to your desktop as an application.
+For use offline, this application can be downloaded to your desktop as an application. app
 
 ## Installation
 
